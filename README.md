@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleem</h1>
-<h3 align="center">Im full stack developer from Pakistan</h3>
+<h3 align="center">Im full stack developer [MERN & LAMP]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukaleem&label=Profile%20views&color=0e75b6&style=flat" alt="ukaleem" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kaleemu99175867" target="blank"><img src="https://img.shields.io/twitter/follow/kaleemu99175867?logo=twitter&style=for-the-badge" alt="kaleemu99175867" /></a> </p>
 
-- 🔭 I’m currently working on **Ionic Framework**
+- 🔭 I’m currently working on **AI , Hybrid Mobile Apps & Web Applications**
 
-- 💬 Ask me about **Ionic**
+- 💬 Feel Free to reach out you need guide about **Digital business | SAAS Project | Need technical Support | Developer Support or anything about your business growth**
 
 - 📫 How to reach me **ukaleem540@gmail.com**
 

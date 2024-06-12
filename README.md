@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleem</h1>
-<h3 align="center">Im full stack developer [MERN & LAMP]</h3>
+<h3 align="center">Im Full Stack Developer [MERN & LAMP]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukaleem&label=Profile%20views&color=0e75b6&style=flat" alt="ukaleem" /> </p>
 

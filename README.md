@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaleem</h1>
-<h3 align="center">Im Full Stack Developer [MERN & LAMP]</h3>
+<h3 align="center">I build Production-Ready AI Products & Intelligent Systems</h3>
+<p align="center">RAG · AI Agents · Hybrid Mobile Apps · Full Product Delivery</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukaleem&label=Profile%20views&color=0e75b6&style=flat" alt="ukaleem" /> </p>
 
@@ -7,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kaleemu99175867" target="blank"><img src="https://img.shields.io/twitter/follow/kaleemu99175867?logo=twitter&style=for-the-badge" alt="kaleemu99175867" /></a> </p>
 
-- 🔭 I’m currently working on **AI , Hybrid Mobile Apps & Web Applications**
+- 🔭 I’m currently working on **Production-Ready AI Products, RAG systems, AI Agents & Hybrid Mobile Apps**
 
-- 💬 Feel Free to reach out you need guide about **Digital business | SAAS Project | Need technical Support | Developer Support or anything about your business growth**
+- 💬 Feel free to reach out if you need help with **AI chatbots that work in production · Multi-tenant RAG systems · Web + Mobile + AI products · SaaS & digital business growth**
 
 - 📫 How to reach me **ukaleem540@gmail.com**
 
